@@ -12,3 +12,5 @@ Arquivo da aula de git e github para iniciante
 - Commit: Todos os aquivos volta a ser Unmodified, não foram modificados desde a ultima versão criada
 
 -gluglu glu glu 2
+
+-Gostou do curso? quer mais? Ajude com uma doasão, ate um cafe vale.
